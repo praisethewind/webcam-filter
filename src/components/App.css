@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #3f51b5;
+}
+
+.web-cam-wrap {
+  margin-top: 100px;
+}
